@@ -1,0 +1,22 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table,
+th,
+tr,
+td {
+    border: 1px solid;
+    border-color: black;
+
+}
+
+th {
+    background-color: gray;
+    padding: 1rem;
+}
+
+td {
+    padding: 1rem;
+}
